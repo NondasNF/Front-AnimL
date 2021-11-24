@@ -2,13 +2,13 @@
 export const MenuItems = [
     {
         title: 'Home',
-        url: 'http://localhost:3000/',
+        url: 'https://animl-back-end.herokuapp.com/',
         cName: 'nav-links'
 
     },
     {
         title: 'Favoritos',
-        url: 'http://localhost:3000/favorites',
+        url: 'https://animl-back-end.herokuapp.com/favorites',
         cName: 'nav-links'
 
     },
@@ -20,7 +20,7 @@ export const MenuItems = [
     },
     {
         title: 'Calendario',
-        url: 'http://localhost:3000/releases',
+        url: 'https://animl-back-end.herokuapp.com/releases',
         cName: 'nav-links'
 
     },
